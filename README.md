@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# Drug Effectiveness on Mice Analysis
 Analyzing mouse data for testing on certain drugs.
 
 ## Skills/Languages used
